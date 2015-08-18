@@ -4,3 +4,4 @@ Deuxieme Branche
 <h1>Hello world</h1>
 <h2>Ma deuxieme modification - 2 </h2>
 <h3>Une modification depuis github</h3>
+[http://jbelie.github.io/angular-libcrud/](http://jbelie.github.io/angular-libcrud/ "Angular LibCRUD")
